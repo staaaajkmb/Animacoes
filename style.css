@@ -10,12 +10,12 @@ body{
    align-items: center;
    background-color:rgb(255, 248, 248) ;
 }
-img{ width: 400px;
+img{ width: 500px;
    animation: infinite batida-coração 1s;
 }
 @keyframes batida-coração{
-    0%{ width 400px;}
-    50%{ width: 450px;}
+    0%{ width 500px;}
+    50%{ width: 550px;}
     100%{500px;}
 }
 
